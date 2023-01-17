@@ -22,7 +22,6 @@
 
   ## Installation:
   
-<<<<<<< HEAD
   Node.js inquirer package.
   
 
