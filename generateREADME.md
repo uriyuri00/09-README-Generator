@@ -25,9 +25,7 @@
 <<<<<<< HEAD
   Node.js inquirer package.
   
-=======
-https://watch.screencastify.com/v/KR7cInsGor0ztR63szKn  
->>>>>>> 2eada4ed3fc2fe5f3b93173607a67bcb31b739b7
+
   ## License
   
   Boost Software license 1.0
