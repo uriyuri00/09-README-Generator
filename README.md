@@ -4,7 +4,6 @@
   - [Project Description](#Description)
   - [Usage](#Usage)
   - [Contribution](#Contribution)
-  - [License] (#License)
   - [Installation](#Installation)
   - [Questions](#Questions)
   
