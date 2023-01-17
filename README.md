@@ -17,4 +17,4 @@
 
   #### Github: http://github.com/${data.githubid}
    OR
-  #### Email: ${data.email}
+  #### Email: uriyuri00@gmail.com
