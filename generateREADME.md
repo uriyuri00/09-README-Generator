@@ -22,8 +22,7 @@
 
   ## Installation:
   
-  gjlkdjf
-  
+https://watch.screencastify.com/v/KR7cInsGor0ztR63szKn  
   ## License
   
   BSD 3-Clause License
