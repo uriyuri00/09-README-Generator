@@ -8,7 +8,7 @@
   - [Questions](#Questions)
   
   ## FINAL Screen shot
-  https://github.com/uriyuri00/09-README-Generator/issues/2#issue-1548602404
+![Screenshot 2023-01-18 224353](https://user-images.githubusercontent.com/114896166/213374038-012c4788-8f03-4581-a0aa-54f6c21690f0.png)
   ## vedio
 [  https://watch.screencastify.com/v/KR7cInsGor0ztR63szKn](https://user-images.githubusercontent.com/114896166/212812695-f4fb9e47-80e7-4489-8bb4-7e9153567953.mp4
 )
