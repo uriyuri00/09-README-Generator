@@ -15,6 +15,6 @@
   ## Questions
   ### If you have any question, contact here
 
-  #### Github: http://github.com/${data.githubid}
+  #### Github: http://github.com/uriyuri00
    OR
   #### Email: uriyuri00@gmail.com
