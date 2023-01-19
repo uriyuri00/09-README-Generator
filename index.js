@@ -56,10 +56,10 @@ function init() {
                 message: questions[4],
                 choices: [
                     'None',
-                    'Apache 2.0 License',
-                    'Boost Software license 1.0',
-                    'BSD 3-Clause License',
-                    'Mozilla Public License',
+                    'Apache license 2.0',
+                    'Boost Software License 1.0',
+                    'BSD 3-Clause \"New\" or \"Revised\" License',
+                    'Mozilla Public License 2.0',
                     ]
             },
             {
@@ -77,9 +77,11 @@ function init() {
                 type: 'input',
                 message: questions[7],
             },
-        ])
 
+        ])
+    
     .then((response)=> {
+        console.log(response.license);
         const data = generateMarkdown(response);
         writeToFile(data)
 

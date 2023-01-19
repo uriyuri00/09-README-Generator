@@ -1,14 +1,11 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
-const inquirer = require('inquirer');
-const fs = require('fs');
-
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   let badge = '';
   let licenseOptions =
   {
-    "Apache license 2.0": "https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg",
-    "BSD 3-Clause \"New\" or \"Revised\" License": "https://img.shields.io/badge/License-BSD_3--Clause-orange.svg",
+    "Apache license 2.0": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
+    "BSD 3-Clause \"New\" or \"Revised\" License": "https://img.shields.io/badge/License-BSD_3--Clause-blue.svg",
     "Boost Software License 1.0": "https://img.shields.io/badge/License-Boost_1.0-lightblue.svg",
     "Mozilla Public License 2.0": "https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg",
   }
@@ -42,7 +39,7 @@ function renderLicenseSection(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `
+  return `<!-- omit in toc -->
   # ${data.title}
 
   ${renderLicenseBadge(data.license)}

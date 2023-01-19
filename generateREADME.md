@@ -1,7 +1,7 @@
+<!-- omit in toc -->
+  # Professinal README generator
 
-  # Professional README generator
-
-  ![License](undefined)
+  ![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)
 
 
   ## Table of Contents 
@@ -15,7 +15,7 @@
 
   ## Description
   
-  This project is a simple ReadMe generator made with node.js
+  This project is a simple README generator made with node.js
   ## Usage
    walkthrough video
 
@@ -24,17 +24,16 @@
   
   Node.js inquirer package.
   
-
   ## License
   
-  Boost Software license 1.0
+  Boost Software License 1.0
   
   ## Questions
   ### If you have any question, contact here
 
    Github: http://github.com/uriyuri00
    OR
-   Email: uriyuri00@gamil.com
+   Email: uriyuri00@gmail.com
 
 
 
